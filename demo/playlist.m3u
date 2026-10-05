@@ -1,0 +1,41 @@
+#EXTM3U url-tvg="https://dan007006-ai.github.io/dan-iptv/demo/epg.xml"
+#EXTINF:-1 tvg-id="northwind.demo" tvg-chno="1" tvg-logo="https://dan007006-ai.github.io/dan-iptv/demo/logos/northwind.png" group-title="News",Northwind News
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
+#EXTINF:-1 tvg-id="harbor.demo" tvg-chno="2" tvg-logo="https://dan007006-ai.github.io/dan-iptv/demo/logos/harbor.png" group-title="News",Harbor Weather
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+#EXTINF:-1 tvg-id="summit.demo" tvg-chno="3" tvg-logo="https://dan007006-ai.github.io/dan-iptv/demo/logos/summit.png" group-title="Sports",Summit Sports
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
+#EXTINF:-1 tvg-id="pulse.demo" tvg-chno="4" tvg-logo="https://dan007006-ai.github.io/dan-iptv/demo/logos/pulse.png" group-title="Sports",Pulse Live
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8
+#EXTINF:-1 tvg-id="lumen.demo" tvg-chno="5" tvg-logo="https://dan007006-ai.github.io/dan-iptv/demo/logos/lumen.png" group-title="Movies",Lumen Cinema
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
+#EXTINF:-1 tvg-id="pixel.demo" tvg-chno="6" tvg-logo="https://dan007006-ai.github.io/dan-iptv/demo/logos/pixel.png" group-title="Kids",Pixel Kids
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+#EXTINF:-1 tvg-id="tidal.demo" tvg-chno="7" tvg-logo="https://dan007006-ai.github.io/dan-iptv/demo/logos/tidal.png" group-title="Documentary",Tidal Nature
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
+#EXTINF:-1 tvg-id="orbit.demo" tvg-chno="8" tvg-logo="https://dan007006-ai.github.io/dan-iptv/demo/logos/orbit.png" group-title="Documentary",Orbit Science
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8
+#EXTINF:-1 tvg-id="echo.demo" tvg-chno="9" tvg-logo="https://dan007006-ai.github.io/dan-iptv/demo/logos/echo.png" group-title="Music",Echo Music
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
+#EXTINF:-1 tvg-id="ember.demo" tvg-chno="10" tvg-logo="https://dan007006-ai.github.io/dan-iptv/demo/logos/ember.png" group-title="Lifestyle",Ember Kitchen
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+#EXTINF:-1 tvg-id="atlas.demo" tvg-chno="11" tvg-logo="https://dan007006-ai.github.io/dan-iptv/demo/logos/atlas.png" group-title="Lifestyle",Atlas Travel
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
+#EXTINF:-1 tvg-id="vista.demo" tvg-chno="12" tvg-logo="https://dan007006-ai.github.io/dan-iptv/demo/logos/vista.png" group-title="Documentary",Vista Docs
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://dan007006-ai.github.io/dan-iptv/demo/posters/the-long-light.jpg" group-title="Movies · Drama",The Long Light
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://dan007006-ai.github.io/dan-iptv/demo/posters/paper-harbor.jpg" group-title="Movies · Mystery",Paper Harbor
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://dan007006-ai.github.io/dan-iptv/demo/posters/glass-orchard.jpg" group-title="Movies · Family",Glass Orchard
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://dan007006-ai.github.io/dan-iptv/demo/posters/night-signal.jpg" group-title="Movies · Sci-Fi",Night Signal
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://dan007006-ai.github.io/dan-iptv/demo/posters/saltwater-kings.jpg" group-title="Movies · Adventure",Saltwater Kings
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://dan007006-ai.github.io/dan-iptv/demo/posters/northern-line.jpg" group-title="Movies · Thriller",Northern Line
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://dan007006-ai.github.io/dan-iptv/demo/posters/the-quiet-engine.jpg" group-title="Movies · Drama",The Quiet Engine
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://dan007006-ai.github.io/dan-iptv/demo/posters/copper-sky.jpg" group-title="Movies · Western",Copper Sky
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
